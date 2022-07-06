@@ -1,0 +1,118 @@
+body {
+    
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: tomato;
+    background-color: lightcyan;
+    background-image: url('https://www.quickanddirtytips.com/sites/default/files/images/6667/weighted-vest.png');
+    background-attachment: fixed;
+    background-size: cover;
+    
+  }
+  
+  h1 {
+    color: lightseagreen;
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 100px;
+    width: 100%;
+    font-family: Georgia;
+    text-align: center;
+  }
+  
+  h2 {
+    border-bottom: 1px solid rgba(189, 19, 19, 0.724);
+    color: rgba(0, 200, 143, 0.5);
+    font-weight: 100;
+    font-size: 22px;
+    line-height: 24px;
+    padding-bottom: 30px;
+    text-align: left;
+    width: 100%;
+    font-family: Georgia;
+  }
+  
+  p {
+    color: rgb(70, 218, 47);
+    line-height: 1.3em;
+    text-align: left;
+    width: 100%;
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+
+a {
+    color: tomato;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.5);
+    
+}
+  
+  .byline {
+    font-family: Helvetica;
+    color: rgba(255, 255, 255, 0.5);
+    float: left;
+    font-size: 14px;
+    padding-left: 10px;
+    text-transform: uppercase;
+  }
+  
+  .caption {
+    display: block;
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 14px;
+    margin-left: 20px;
+    padding: 10px;
+    position: relative;
+    top: 80%;
+    width: 60%;
+    background-color: white;
+    color: black;
+  }
+  
+  .content {
+    padding: 40px;
+  }
+  
+  .image {
+    background-image: url('https://content.codecademy.com/courses/freelance-1/unit-2/soccer.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    opacity: 0.5;
+  }
+
+  table {
+    border: 1px solid olivedrab;
+    color: aliceblue;
+    line-height: 1.3em;
+    text-align: left;
+    width: 100%;
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: bold
+  }
+  th {
+    border: 1px solid olivedrab;
+    color: aliceblue;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 24px;
+    font-weight: bold
+  }
+  tr {
+    border: 1px solid olivedrab;
+    border-collapse: collapse;
+    color: aliceblue;
+    text-align: left;
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: bold
+  }
